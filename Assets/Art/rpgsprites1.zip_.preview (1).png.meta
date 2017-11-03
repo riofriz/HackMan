@@ -1,0 +1,2215 @@
+fileFormatVersion: 2
+guid: 2053aaa63c80c904f8ba22099fc40856
+timeCreated: 1509666301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpgsprites1.zip_.preview (1)_0
+    21300002: rpgsprites1.zip_.preview (1)_1
+    21300004: rpgsprites1.zip_.preview (1)_2
+    21300006: rpgsprites1.zip_.preview (1)_3
+    21300008: rpgsprites1.zip_.preview (1)_4
+    21300010: rpgsprites1.zip_.preview (1)_5
+    21300012: rpgsprites1.zip_.preview (1)_6
+    21300014: rpgsprites1.zip_.preview (1)_7
+    21300016: rpgsprites1.zip_.preview (1)_8
+    21300018: rpgsprites1.zip_.preview (1)_9
+    21300020: rpgsprites1.zip_.preview (1)_10
+    21300022: rpgsprites1.zip_.preview (1)_11
+    21300024: rpgsprites1.zip_.preview (1)_12
+    21300026: rpgsprites1.zip_.preview (1)_13
+    21300028: rpgsprites1.zip_.preview (1)_14
+    21300030: rpgsprites1.zip_.preview (1)_15
+    21300032: rpgsprites1.zip_.preview (1)_16
+    21300034: rpgsprites1.zip_.preview (1)_17
+    21300036: rpgsprites1.zip_.preview (1)_18
+    21300038: rpgsprites1.zip_.preview (1)_19
+    21300040: rpgsprites1.zip_.preview (1)_20
+    21300042: rpgsprites1.zip_.preview (1)_21
+    21300044: rpgsprites1.zip_.preview (1)_22
+    21300046: rpgsprites1.zip_.preview (1)_23
+    21300048: rpgsprites1.zip_.preview (1)_24
+    21300050: rpgsprites1.zip_.preview (1)_25
+    21300052: rpgsprites1.zip_.preview (1)_26
+    21300054: rpgsprites1.zip_.preview (1)_27
+    21300056: rpgsprites1.zip_.preview (1)_28
+    21300058: rpgsprites1.zip_.preview (1)_29
+    21300060: rpgsprites1.zip_.preview (1)_30
+    21300062: rpgsprites1.zip_.preview (1)_31
+    21300064: rpgsprites1.zip_.preview (1)_32
+    21300066: rpgsprites1.zip_.preview (1)_33
+    21300068: rpgsprites1.zip_.preview (1)_34
+    21300070: rpgsprites1.zip_.preview (1)_35
+    21300072: rpgsprites1.zip_.preview (1)_36
+    21300074: rpgsprites1.zip_.preview (1)_37
+    21300076: rpgsprites1.zip_.preview (1)_38
+    21300078: rpgsprites1.zip_.preview (1)_39
+    21300080: rpgsprites1.zip_.preview (1)_40
+    21300082: rpgsprites1.zip_.preview (1)_41
+    21300084: rpgsprites1.zip_.preview (1)_42
+    21300086: rpgsprites1.zip_.preview (1)_43
+    21300088: rpgsprites1.zip_.preview (1)_44
+    21300090: rpgsprites1.zip_.preview (1)_45
+    21300092: rpgsprites1.zip_.preview (1)_46
+    21300094: rpgsprites1.zip_.preview (1)_47
+    21300096: rpgsprites1.zip_.preview (1)_48
+    21300098: rpgsprites1.zip_.preview (1)_49
+    21300100: rpgsprites1.zip_.preview (1)_50
+    21300102: rpgsprites1.zip_.preview (1)_51
+    21300104: rpgsprites1.zip_.preview (1)_52
+    21300106: rpgsprites1.zip_.preview (1)_53
+    21300108: rpgsprites1.zip_.preview (1)_54
+    21300110: rpgsprites1.zip_.preview (1)_55
+    21300112: rpgsprites1.zip_.preview (1)_56
+    21300114: rpgsprites1.zip_.preview (1)_57
+    21300116: rpgsprites1.zip_.preview (1)_58
+    21300118: rpgsprites1.zip_.preview (1)_59
+    21300120: rpgsprites1.zip_.preview (1)_60
+    21300122: rpgsprites1.zip_.preview (1)_61
+    21300124: rpgsprites1.zip_.preview (1)_62
+    21300126: rpgsprites1.zip_.preview (1)_63
+    21300128: rpgsprites1.zip_.preview (1)_64
+    21300130: rpgsprites1.zip_.preview (1)_65
+    21300132: rpgsprites1.zip_.preview (1)_66
+    21300134: rpgsprites1.zip_.preview (1)_67
+    21300136: rpgsprites1.zip_.preview (1)_68
+    21300138: rpgsprites1.zip_.preview (1)_69
+    21300140: rpgsprites1.zip_.preview (1)_70
+    21300142: rpgsprites1.zip_.preview (1)_71
+    21300144: rpgsprites1.zip_.preview (1)_72
+    21300146: rpgsprites1.zip_.preview (1)_73
+    21300148: rpgsprites1.zip_.preview (1)_74
+    21300150: rpgsprites1.zip_.preview (1)_75
+    21300152: rpgsprites1.zip_.preview (1)_76
+    21300154: rpgsprites1.zip_.preview (1)_77
+    21300156: rpgsprites1.zip_.preview (1)_78
+    21300158: rpgsprites1.zip_.preview (1)_79
+    21300160: rpgsprites1.zip_.preview (1)_80
+    21300162: rpgsprites1.zip_.preview (1)_81
+    21300164: rpgsprites1.zip_.preview (1)_82
+    21300166: rpgsprites1.zip_.preview (1)_83
+    21300168: rpgsprites1.zip_.preview (1)_84
+    21300170: rpgsprites1.zip_.preview (1)_85
+    21300172: rpgsprites1.zip_.preview (1)_86
+    21300174: rpgsprites1.zip_.preview (1)_87
+    21300176: rpgsprites1.zip_.preview (1)_88
+    21300178: rpgsprites1.zip_.preview (1)_89
+    21300180: rpgsprites1.zip_.preview (1)_90
+    21300182: rpgsprites1.zip_.preview (1)_91
+    21300184: rpgsprites1.zip_.preview (1)_92
+    21300186: rpgsprites1.zip_.preview (1)_93
+    21300188: rpgsprites1.zip_.preview (1)_94
+    21300190: rpgsprites1.zip_.preview (1)_95
+    21300192: rpgsprites1.zip_.preview (1)_96
+    21300194: rpgsprites1.zip_.preview (1)_97
+    21300196: rpgsprites1.zip_.preview (1)_98
+    21300198: rpgsprites1.zip_.preview (1)_99
+    21300200: rpgsprites1.zip_.preview (1)_100
+    21300202: rpgsprites1.zip_.preview (1)_101
+    21300204: rpgsprites1.zip_.preview (1)_102
+    21300206: rpgsprites1.zip_.preview (1)_103
+    21300208: rpgsprites1.zip_.preview (1)_104
+    21300210: rpgsprites1.zip_.preview (1)_105
+    21300212: rpgsprites1.zip_.preview (1)_106
+    21300214: rpgsprites1.zip_.preview (1)_107
+    21300216: rpgsprites1.zip_.preview (1)_108
+    21300218: rpgsprites1.zip_.preview (1)_109
+    21300220: rpgsprites1.zip_.preview (1)_110
+    21300222: rpgsprites1.zip_.preview (1)_111
+    21300224: rpgsprites1.zip_.preview (1)_112
+    21300226: rpgsprites1.zip_.preview (1)_113
+    21300228: rpgsprites1.zip_.preview (1)_114
+    21300230: rpgsprites1.zip_.preview (1)_115
+    21300232: rpgsprites1.zip_.preview (1)_116
+    21300234: rpgsprites1.zip_.preview (1)_117
+    21300236: rpgsprites1.zip_.preview (1)_118
+    21300238: rpgsprites1.zip_.preview (1)_119
+    21300240: rpgsprites1.zip_.preview (1)_120
+    21300242: rpgsprites1.zip_.preview (1)_121
+    21300244: rpgsprites1.zip_.preview (1)_122
+    21300246: rpgsprites1.zip_.preview (1)_123
+    21300248: rpgsprites1.zip_.preview (1)_124
+    21300250: rpgsprites1.zip_.preview (1)_125
+    21300252: rpgsprites1.zip_.preview (1)_126
+    21300254: rpgsprites1.zip_.preview (1)_127
+    21300256: rpgsprites1.zip_.preview (1)_128
+    21300258: rpgsprites1.zip_.preview (1)_129
+    21300260: rpgsprites1.zip_.preview (1)_130
+    21300262: rpgsprites1.zip_.preview (1)_131
+    21300264: rpgsprites1.zip_.preview (1)_132
+    21300266: rpgsprites1.zip_.preview (1)_133
+    21300268: rpgsprites1.zip_.preview (1)_134
+    21300270: rpgsprites1.zip_.preview (1)_135
+    21300272: rpgsprites1.zip_.preview (1)_136
+    21300274: rpgsprites1.zip_.preview (1)_137
+    21300276: rpgsprites1.zip_.preview (1)_138
+    21300278: rpgsprites1.zip_.preview (1)_139
+    21300280: rpgsprites1.zip_.preview (1)_140
+    21300282: rpgsprites1.zip_.preview (1)_141
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 414
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 416
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 414
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 378
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 380
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 378
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 378
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 380
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 378
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 378
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 380
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 378
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 342
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 380
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 342
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 344
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 344
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 344
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 306
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 306
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 306
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 308
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 306
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 308
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 306
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 260
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 258
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 261
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 261
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 261
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_56
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 261
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 222
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 224
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 227
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_66
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 225
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 227
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_69
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 188
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 189
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 189
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_79
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 189
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 189
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 150
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 152
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 150
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_88
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 153
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_90
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 155
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_93
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_98
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_104
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_105
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_107
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_108
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_110
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 74
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_114
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 74
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 72
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_125
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_126
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_127
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_129
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_132
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_133
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_134
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_135
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_138
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview (1)_141
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
