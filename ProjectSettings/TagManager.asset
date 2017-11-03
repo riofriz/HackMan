@@ -41,9 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1686542251
-    locked: 0
   - name: Ground
     uniqueID: 2826709813
+    locked: 0
+  - name: OverGround Objects
+    uniqueID: 1937582173
+    locked: 0
+  - name: Obstacles
+    uniqueID: 825819483
+    locked: 0
+  - name: Player
+    uniqueID: 1686542251
     locked: 0
